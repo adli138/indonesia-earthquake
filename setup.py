@@ -65,7 +65,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url="https://github.com/adli138/latest-indoneasia-earthquake",  # Optional
+    url="https://github.com/adli138/indonesia-earthquake",  # Optional
     # This should be your name or the name of the organization which owns the
     # project.
     author="Muhammad Adli",  # Optional
